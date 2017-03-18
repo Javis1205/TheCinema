@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/cytech/Documents/react_native/Video1/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedModule.m \
+  /Users/cytech/Documents/react_native/Video1/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedModule.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/cytech/Documents/react_native/Video1/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/cytech/Documents/react_native/Video1/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/cytech/Documents/react_native/Video1/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h

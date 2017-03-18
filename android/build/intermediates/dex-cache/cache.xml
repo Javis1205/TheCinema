@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/Video1/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="25e8d08735e7c1931480216cdb92de9d874a3722">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/classes-78d233bfc5c5f2dbaae17f7698e2d95204a1fe5b.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/classes-eae1a337ee27f2fc81ca26d8961dc67ce784bf2c.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/classes-88a2712e5431bb7eb07159cb2088d726053ae640.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/classes-b43114f755f07e3b4ccbeeb7fd4ad902da2ec3a3.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/classes-468d8daa73b4d865044229379be0e464bd21803c.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/classes-89ef7addf27fdccc1d38d7e21702eb687045300c.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-a6c839c80be9d6315312e985a2b7dc95414765ee.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/classes-19edc7b60802ad42a7c5da5a5180af55e2678130.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-d6704bdf5bcd41d2e14e0e0afea1b9112d1464aa.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/classes-eba02c745a83a1f8da852e9dad59566fde01a7b5.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0-96274230a947cab594205ab9f90fa97a52c47c58.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/Video1/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9af5d05bdf6edf24c3c40d4df2e7ad8ee28f554a">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/classes-8db0a2b190134c0feb0113910bdf56bf5abe191e.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-6887fd618a44848b8acf4fd7c8b335ffa9f266c9.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/classes-d3c080ec84cd92cf157db26c7314851ca99dd83d.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/classes-717471f1dc1a0541dc9b8a1fef911d6aad2cb508.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-54b5b882a9153247c35eac7ad9e6122c0cb12961.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/classes-7e9500c836fd2b506063e62f575778e7532d5b59.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/classes-c78e256fa893b6015bd58043a51e855cd7b8d629.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-48b6621cd54c061875acddd3b18c5fe84badbd6a.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-1c6f7c5dc47701a0d6f8a32a6b77629aebf38baf.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/classes-9015f29c1733fe023203b256234cca09b443670c.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-ccddd621d2f7c99844b555cdb21c1aa3f1ff208b.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-44ae01ccf60875f4a0fa6944041bb01ca4d6fa57.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-f20fca861ad0d3b769cdd6bd66d2fc17b7a2fee9.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-c0012c3335b6641c43376257a45f525fb76392d3.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0-461d015e6aadc4211339d3e07939b8812c345fcf.jar" />
+    </item>
+    <item
+        jar="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/cytech/Documents/react_native/Video1/android/app/build/intermediates/pre-dexed/debug/classes-ffc7d773ce48a160e810550c92f3bd82d746d62a.jar" />
+    </item>
+
+</items>

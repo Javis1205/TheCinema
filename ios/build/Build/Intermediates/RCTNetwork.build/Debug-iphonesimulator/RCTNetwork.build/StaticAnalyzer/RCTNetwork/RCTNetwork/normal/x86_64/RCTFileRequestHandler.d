@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/cytech/Documents/react_native/Video1/node_modules/react-native/Libraries/Network/RCTFileRequestHandler.m \
+  /Users/cytech/Documents/react_native/Video1/node_modules/react-native/Libraries/Network/RCTFileRequestHandler.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/cytech/Documents/react_native/Video1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h
